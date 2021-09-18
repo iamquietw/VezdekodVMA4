@@ -1,0 +1,9 @@
+.buttonsWrapper {
+    display: grid;
+    justify-items: center;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+}
+.beatButton {
+    height: 45px;
+    width: 45px;
+}
